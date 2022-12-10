@@ -1,4 +1,4 @@
- #  _Hi everyone, I'm Niko._
+ #  _Hi there, I'm Niko._
 #### 🏆 __I am a beginner software tester.__ 🏆
 #### 📚 __This is where I will post my projects.__ 📚 
 ## 🚀 About me:
