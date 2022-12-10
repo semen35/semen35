@@ -14,4 +14,5 @@
  - DevTools;
  
 ## Contact me:
-[![instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niko.4068/)
+[![instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niko.4068/) [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015672846751)
+
