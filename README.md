@@ -2,13 +2,13 @@
 #### __I am a beginner software tester.__
 #### __This is where I will post my projects.__
 ## About me:
- #### I completed courses _Quality Assurance Engineer_. Very good knowledge and little experience with _HTML_, _CSS_ and _SQL_. I have experience writing _Test Сases_ and _Сhecklists_.I quickly find a common language with colleagues, show leadership qualities and initiative.At my previous job, I repeatedly found errors in the software. I was always interested in this.
+ #### I completed courses _"Quality Assurance Engineer"_. Very good knowledge and little experience with _"HTML"_, _"CSS"_ and _"SQL"_. I have experience writing _"Test Сases"_ and _"Сhecklists"_.I quickly find a common language with colleagues, show leadership qualities and initiative.At my previous job, I repeatedly found errors in the software. I was always interested in this.
 
 
 ## 🛠️ Skills:
  - ⭐ Jira; 
  - ⭐ Confluence;
- - ⭐  Git; 
+ - ⭐ Git; 
  - ⭐ Trello;
  - ⭐ Node.js;
  - ⭐ DevTools;
