@@ -14,5 +14,6 @@
  - Node.js;
  - DevTools;
 
- ## Very good knowledge and little experience with HTML, CSS and SQL. I have experience writing Test Сases and check lists
+ ## Very good knowledge and little experience with HTML, CSS and SQL. I have experience writing Test Сases and Сhecklists.I quickly find a common language with colleagues, show leadership qualities and initiative.
+ 
  
