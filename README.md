@@ -16,4 +16,4 @@
  
  # ![Instagram](https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Resize-7f6I770M2U.jpg) [Istagram](https://www.instagram.com/invites/contact/?i=1ohri75emjwqa&utm_content=lufw0qu)
  
- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niko.4068/)
+[![instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niko.4068/)
