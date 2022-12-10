@@ -1,7 +1,7 @@
  #  _Hi everyone, I'm Niko._
 #### __I am a beginner software tester.__
 #### __This is where I will post my projects.__
- ## Very good knowledge and little experience with HTML, CSS and SQL. I have experience writing Test Сases and Сhecklists.I quickly find a common language with colleagues, show leadership qualities and initiative.At my previous job, I repeatedly found errors in the software. I was always interested in this.
+ #### __Very good knowledge and little experience with HTML, CSS and SQL. I have experience writing Test Сases and Сhecklists.I quickly find a common language with colleagues, show leadership qualities and initiative.At my previous job, I repeatedly found errors in the software. I was always interested in this.__
 
 
 ## I can work with the following tools:
