@@ -11,4 +11,8 @@
  - Confluence;
  - Git; 
  - Trello;
+ - Node.js;
+ - DevTools;
+
+ ## Very good knowledge and little experience with HTML, CSS and SQL. I have experience writing Test Сases and check lists
  
