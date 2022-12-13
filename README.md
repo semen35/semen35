@@ -15,5 +15,6 @@
  
 ## 📝 Contact me:
 [![instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niko.4068/) [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015672846751) [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Nik4068) 
+[![GMAIL](https://img.shields.io/badge/GMAIL-000?style=for-the-badge&logo=Gmail&logoColor=white)](koliapashkov92@gmail.com)
 
 
