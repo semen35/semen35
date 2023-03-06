@@ -4,8 +4,8 @@
 ## 🚀 About me:
  #### 🎓 I completed courses _"Quality Assurance Engineer", "Basic Web and SQL for Software Testing"_. Very good knowledge and little experience with _"HTML"_, _"CSS"_ and _"SQL"_. I have experience writing _"Test Сases"_ and _"Сhecklists"_.I quickly find a common language with colleagues, show leadership qualities and initiative.📈At my previous job, I repeatedly found errors in the software. I was always interested in this.
 
-:computer: : computer :
-## 🛠️ Skills:
+
+## 🛠️ Skills: :computer: 
  - ⭐ Jira; 
  - ⭐ Confluence;
  - ⭐ Git; 
